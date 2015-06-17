@@ -1,4 +1,3 @@
-# YaPSNappContrib
 # Contributed Project for YaPSNApp
 
 Welcome to the contributed project for YaPSNapp.
