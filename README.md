@@ -34,7 +34,7 @@ The color format is in `#AAAAAAFF` format where
 * 6 first alpha-digits, are used for color in Hexa format
 * 2 last alpha-digits, are used for alpha transparency in Hexa format
 
-**Currently, it is not possible to test it, in the app**, in a future release, I will add an app scheme extension that will permit to load the file in the app to test it.
+**Currently, it is not possible to test it, in the app**, in a future release, we will add an app scheme extension that will permit to load the file in the app to test it.
 To see your changes and if you have a jailbroken phone, you can browse the YaPSNapp Documents/theme directory and edit a "Stock" XML theme file.
 
 > Note that with a jailbroken phone you can browse the YaPSNapp Documents/theme directory 
