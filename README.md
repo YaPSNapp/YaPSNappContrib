@@ -5,7 +5,7 @@
 Welcome to the contributed project for YaPSNapp.
 You can collaborate to this project by
 * Translating the app *(if you want to see your favorite app in your native language)*
-* Define some new application theme(s) that we will be able to release for everyone
+* Define some new application theme(s) for future releases.
 
 ## Translation
 
@@ -28,9 +28,8 @@ You can amend this language list by adding additional languages (by creating sub
 
 ## Design
 
-If you want to create a new YaPSNapp theme for a future release, you can create a new Theme with its schemes by creating a new XML file.
-Just copy an existing "Stock" theme file and change what you want.
-The color is in `#AAAAAAFF` format where 
+To create a new YaPSNapp theme, copy an existing "Stock" theme file (XML format) and edit it.
+The color format is `#AAAAAAFF` where: 
 * 6 first alpha-digits, are used for color in Hexa format
 * 2 last alpha-digits, are used for alpha transparency in Hexa format
 
