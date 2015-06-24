@@ -1,3 +1,5 @@
+![logo][img0] &nbsp;&nbsp; YaPSNapp
+
 # Contributed Project for YaPSNapp
 
 Welcome to the contributed project for YaPSNapp.
