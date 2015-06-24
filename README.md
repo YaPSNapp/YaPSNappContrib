@@ -1,6 +1,6 @@
 
 
-# ![logo][img0] &nbsp;&nbsp;YaPSNapp How to contribute
+# ![logo][imgLogo] &nbsp;&nbsp;YaPSNapp How to contribute
 
 Welcome to the contributed project for YaPSNapp.
 You can collaborate to this project for
@@ -12,10 +12,10 @@ You can collaborate to this project for
 Several things to do for each language:
 
 * Select the language for which you want to contribute, here are the priority languages:
-	* en_US (Credits: Drakfly)
-	* fr_FR (Credits: Drakfly)
-	* es_ES (Credits: Drakfly)
-    * pt_PT (Credits: Diogo Vidigal)
+	* [en_US](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/en_US) *(Credits: Drakfly)*
+	* [fr_FR](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/fr_FR) *(Credits: Drakfly)*
+	* [es_ES](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/es_ES) *(Credits: Drakfly)*
+    * [pt_PT](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/pt_PT) *(Credits: Diogo Vidigal)*
     * zh_CN --- Not yet translated
     * it_IT --- Not yet translated
     * de_DE --- Not yet translated
@@ -33,5 +33,7 @@ Just copy an existing "Stock" theme file and change what you want.
 *Note that with a jailbroken phone you can browse the YaPSNapp Documents/theme directory to retrieve the XML file you have customized through the App*
 
 
+![logodrakfly][imgDrakfly]
 
-[img0]:https://raw.githubusercontent.com/YaPSNapp/YaPSNappContrib/master/logo.png
+[imgLogo]:https://raw.githubusercontent.com/YaPSNapp/YaPSNappContrib/master/logo.png
+[imgDrakfly]:https://raw.githubusercontent.com/YaPSNapp/YaPSNappContrib/master/drakfly.png
