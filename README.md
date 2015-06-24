@@ -31,3 +31,7 @@ You can amend this language list by adding additional languages (by creating sub
 If you want to create a new YaPSNapp theme for a future release, you can create a new Theme with its schemes by creating a new XML file.
 Just copy an existing "Stock" theme file and change what you want.
 *Note that with a jailbroken phone you can browse the YaPSNapp Documents/theme directory to retrieve the XML file you have customized through the App*
+
+
+
+[img0]:https://raw.githubusercontent.com/YaPSNapp/YaPSNappContrib/master/logo.png
