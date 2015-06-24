@@ -14,7 +14,7 @@ Several things to do for each language:
 * Select the language for which you want to contribute, here are the priority languages:
 	* English [en_US](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/en_US) *(Credits: Drakfly)*
 	* Français [fr_FR](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/fr_FR) *(Credits: Drakfly)*
-	* Español[es_ES](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/es_ES) *(Credits: Drakfly)*
+	* Español [es_ES](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/es_ES) *(Credits: Drakfly)*
     * Português [pt_PT](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/pt_PT) *(Credits: Diogo Vidigal)*
     * zh_CN `--- Not yet translated`
     * it_IT `--- Not yet translated`
