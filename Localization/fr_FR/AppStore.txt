@@ -1,0 +1,32 @@
+YaPSNapp: Yet Another PlayStatioN App
+
+Mon PSN me suit partout sur mon iPhone® … 
+
+Est-ce que ça vaut le coup que j’allume ma PS3, PSVita ou PS4 si je n’ai aucun de mes potes connecté ?
+Est-ce que j’ai toujours plus de trophées que Rémy ? Comment je dois faire pour remporter ce dernier trophée ? 
+Si vous vous posez ces questions de temps en temps, alors il y’a YaPSNapp pour ça. Avec cette appli, vous allez pouvoir savoir à n’importe quel moment et n’importe où, qui, parmi vos amis, est connecté et savoir si vous allez pouvoir jouer à votre FPS préféré.? 
+Grâce à YaPSNapp vous pouvez suivre votre activité sur le PlayStation® Network et celle de vos amis depuis n’importe quel endroit. Une interface sympa et intuitive vous permet de savoir rapidement ce qui s’est passé sur le PSN depuis votre dernière visite. 
+
+/!\ Principales fonctionnalités: 
+• Suivez vos amis (statut - dernière connexion - nouveaux trophées)
+• Suivez votre classement (Classement général et par jeu)
+• Collection de trophées (Accès hors-ligne une fois synchronisé)
+• Trucs et astuces
+• Multi-comptes (Version complète)
+• Notifications push lors de changement de statut de vos amis et réception de message (Version complète)
+• Messagerie PSN (Version complète)
+• Recherches intégrées d'aide pour les trophées
+• Accès sécurisé 
+• Navigation rapide
+
+Si vous avez un compte PSN spécifique pour votre jeu préféré, aucun soucis, vous pouvez déclarer plusieurs comptes et passer de l’un à l’autre pour voir vos différents groupes d’amis.
+En un instant vous allez voir quel(s) trophée(s) vos amis ont gagné depuis la dernière fois. 
+Vous pourrez admirer vos trophées et ceux de vos amis "Hors ligne" le soir avant de vous coucher. 
+Si vous ne savait pas comment gagner le trophée que votre pote vient juste d’acquérir, alors peut-être qu’un petit coup d’oeil sur les astuces avec les recherches intégrées vous permettront d’y arriver plus vite. 
+
+--------------------------
+Pour nous contacter vous avez plusieurs choix (N'utilisez pas les "Avis des utilisateurs" de l'AppStore, svp) : 
+• Depuis l’application iPhone, dans le menu, cliquer sur le bouton "Envoi email"
+• Envoyez nous un email à yapsnapp@drakfly.com 
+• Créer un ticket via le bouton "Créer un ticket" sur notre site web de support (http://yapsnapp.drakfly.com/helpdesk?lang=fr).
+
