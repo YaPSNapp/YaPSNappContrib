@@ -1,6 +1,6 @@
-![logo][img0] &nbsp;&nbsp; YaPSNapp
 
-# Contributed Project for YaPSNapp
+
+![logo][img0] &nbsp;&nbsp;# YaPSNapp How to contribute
 
 Welcome to the contributed project for YaPSNapp.
 You can collaborate to this project for
