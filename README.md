@@ -1,9 +1,9 @@
 
 
-# ![logo][imgLogo] &nbsp;&nbsp;YaPSNapp How to contribute
+# ![logo][imgLogo] &nbsp;&nbsp;YaPSNapp - How to contribute ?
 
 Welcome to the contributed project for YaPSNapp.
-You can collaborate to this project for
+You can collaborate to this project by
 * Translating the app *(if you want to see your favorite app in your native language)*
 * Define some new application theme(s) that we will be able to release for everyone
 
