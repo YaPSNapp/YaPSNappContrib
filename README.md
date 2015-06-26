@@ -30,10 +30,11 @@ You can amend this language list by adding additional languages (by creating sub
 
 To create a new YaPSNapp theme, copy an existing "Stock" theme file (XML format) and edit it.
 The color format is `#AAAAAAFF` where: 
-* 6 first alpha-digits, are used for color in Hexa format
-* 2 last alpha-digits, are used for alpha transparency in Hexa format
+* 6 first alpha-digits, are used for color in hexa format
+* 2 last alpha-digits, are used for alpha transparency in hexa format
 
 **Currently, it is not possible to test your theme directly in the app.** In a future release, we will add an app scheme extension that will permit to load the file in the app to test it.
+
 
 ---
 
