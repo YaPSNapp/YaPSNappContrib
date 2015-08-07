@@ -16,6 +16,7 @@ Several things to do for each language:
 	* Français [fr_FR](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/fr_FR) *(Credits: Drakfly)*
 	* Español [es_ES](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/es_ES) *(Credits: Drakfly)*
     * Português [pt_PT](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/pt_PT) *(Credits: Diogo Vidigal)*
+    * Arabic [ar_AR](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/pt_PT) *(Credits: Hazanberg)* 
     * 中国 zh_CN `--- Not yet translated`
     * Italiano it_IT `--- Not yet translated`
     * Deutsch de_DE `--- Not yet translated`
