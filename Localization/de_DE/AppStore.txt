@@ -1,32 +1,32 @@
 YaPSNapp: Yet Another PlayStatioN App
 
-My PSN follows me everywhere in my iPhone® … 
+Mein PSN auf meinem iPhone® vertreten … 
 
-Is it worth it I turn on my PS3, PSVita or PS4 if I have any of my friends online? 
-Do I still have more trophies than Thomas? How can I do to win the last trophy? 
-If you ask yourself these questions from time to time, then there is YaPSNapp for that. With this app, you will be able to learn anytime and anywhere, which of your friends is online and whether you will be able to play your favorite FPS. 
-With YaPSNapp you can track your activity on the PlayStation® Network and your friends from anywhere. A friendly and intuitive interface allows you to quickly know what happened on the PSN since your last visit. 
+Ist es wirklich notwendig meine PS3, PSVita oder PS4 einzuschalten, wenn meine Freunde online sind? 
+Habe ich immer noch mehr Trophäen als Patrick? Was muss ich tun, um die letzte Trophäe freizuschalten? 
+Wenn auch du dich ab und an das Gleiche fragst, dann ist YaPSNapp genau das Richtige für dich! Mit dieser App erfährst du immer - egal wo, egal wann - welche deiner Freunde online sind und ob du dein bevorzugtes FPS spielen kannst.
+Mit YaPSNapp kannst du deine Aktivitäten und die der deiner Freunde im PlayStation® Network von überall verfolgen. Eine intuitive und einfache Oberfläche erlaubt es dir sofort nachzuvollziehen, was seit deinem letztes Besuch im PSN passiert ist.
 
-/!\ Key Features 
-• Follow your friends (status - last connection - new trophies)
-• Follow your ranking (Leaderboards overall - by game)
-• Trophy Collection (Offline access once synchronized)
-• Tips and Tricks (Including platinum guidelines)
-• Multi-accounts (Full version)
-• Push notifications on friend status changes and new message (Full version)
-• PSN messaging (Full version)
-• Integrated trophy helper search 
-• Secure access 
-• Fast browsing
+/!\ Features:
+• Folge deinen Freunden (Status - Letzter Login - Neue Trophäen)
+• Beobachte dein Ranking (Bestenliste insgesamt und pro Spiel)
+• Zugang zu Trophäen (Offline verfügbar nach einmaliger Synchronisation)
+• Tipps & Tricks (Inklusive Platinum-Anleitung)
+• Unterstützung mehrerer Accounts (Vollversion)
+• Push-Mitteilungen bei Änderung des Freund-Status und neuer Nachricht (Vollversion)
+• PSN-Messaging (Vollversion)
+• Integrierte Suche für Trophäen-Hilfe
+• Gesicherter Zugang
+• Schnelle Menü-Navigation
 
-If you have a PSN account specifically for your favorite game, No problem, you can declare multiple accounts and switch from one to another to view your groups of friends. 
-In an instant you’ll see what (s) trophy (ies) your friends have earned since the last time. 
-You can admire your trophy collection offline, before bedtime. 
-If you did not know how to win the trophy that your friend has just acquired, so maybe a little look at the PlaystationTrophies.org™ tips and tricks or at the integrated searches will help you get there faster. 
+Wenn du einen spezifischen PSN Account für dein Lieblingsspiel haben solltest, so stellt das kein Problem dar. Du kannst einfach mehrere Accounts anlegen und schnell zwischen ihnen wechseln.
+Innerhalb eines Augenblicks kannst du erfahren welche Trophäen deine Freunde seit deinem letzten Besuch freigeschalten haben. 
+Außerdem kannst du deine Trophäen-Sammlung auch offline, kurz bevor du dich ins Bett zum Schlafen legst, bewundern.
+Und wenn du immer noch nicht weißt, wie einer deiner Freunde eine Trophäe freigeschalten hat, so hilft dir ein kurzer Blick auf PlaystationTrophies.org™ Tipps und Tricks oder die integrierte Suche hilft dir dabei. 
 
 --------------------------
-To send us feeback / issues you can do it by several ways (Not by the Customer Reviews AppStore Process please :P ):
-• From the application from the menu screen (Email icon)
-• By email to yapsnapp@drakfly.com 
-• Go to our Support Website (http://yapsnapp.drakfly.com/helpdesk/?lang=en) and create a new ticket from the "Create a ticket" menu.
+Um uns Feedback und/oder Probleme zukommen zu lassen, kannst du dies auf mehrere Arten tun (Bitte nicht über die Appstore-Bewertung :P ):
+• Von der App über den Menü-Bildschirm aus (Email-Icon)
+• Per Email an yapsnapp@drakfly.com 
+• Erstelle ein Ticket über den "Ticket erstellen"-Button auf unserer Support-Webseite (http://yapsnapp.drakfly.com/helpdesk/?lang=de)
 
