@@ -7,12 +7,12 @@ Habe ich immer noch mehr Trophäen als Patrick? Was muss ich tun, um die letzte 
 Wenn auch du dich ab und an das Gleiche fragst, dann ist YaPSNapp genau das Richtige für dich! Mit dieser App erfährst du immer - egal wo, egal wann - welche deiner Freunde online sind und ob du dein bevorzugtes FPS spielen kannst.
 Mit YaPSNapp kannst du deine Aktivitäten und die der deiner Freunde im PlayStation® Network von überall verfolgen. Eine intuitive und einfache Oberfläche erlaubt es dir sofort nachzuvollziehen, was seit deinem letztes Besuch im PSN passiert ist.
 
-/!\ Hauptmerkmale:
+/!\ Features:
 • Folge deinen Freunden (Status - Letzter Login - Neue Trophäen)
 • Beobachte dein Ranking (Bestenliste insgesamt und pro Spiel)
 • Zugang zu Trophäen (Offline verfügbar nach einmaliger Synchronisation)
 • Tipps & Tricks (Inklusive Platinum-Anleitung)
-• Multi-accounts (Vollversion)
+• Unterstützung mehrerer Accounts (Vollversion)
 • Push-Mitteilungen bei Änderung des Freund-Status und neuer Nachricht (Vollversion)
 • PSN-Messaging (Vollversion)
 • Integrierte Suche für Trophäen-Hilfe
