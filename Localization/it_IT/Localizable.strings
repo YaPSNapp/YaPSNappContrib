@@ -1,10 +1,10 @@
-/* 
-  Localizable.strings
-  YaPSNapp
-
-  Created by Jeff on 18/02/2016.
-  Copyright © 2016 Drakfly. All rights reserved.
-*/
+/*
+ Localizable.strings
+ YaPSNapp
+ 
+ Created by Davide on 13/06/2016.
+ Copyright © 2016 Drakfly. All rights reserved.
+ */
 "LOCALE" = "it_IT";
 "SHORT_LOCALE" = "it";
 /** Locale Units **/
@@ -194,7 +194,7 @@ Si prega di collegare un account PSN™";
 "GAME_SETTINGS_FILTER_PS3" = "PS3";
 "GAME_SETTINGS_FILTER_VITA" = "PSVITA";
 "GAME_SETTINGS_FILTER_PS4" = "PS4";
-"GAME_SETTINGS_TITLE_SORT" = "Ordina per";
+"GAME_SETTINGS_TITLE_SORT" = "Ordina";
 "GAME_SETTINGS_SORT_RECENT" = "Nuovi";
 "GAME_SETTINGS_SORT_RECENT_DESC" = "Ordina per ultima giocata";
 "GAME_SETTINGS_SORT_ALPHA" = "Alfabeticamente";
@@ -205,7 +205,7 @@ Si prega di collegare un account PSN™";
 "GAME_SETTINGS_SORT_PERCENT_DESC" = "Ordina per progressi di gioco";
 "GAME_NO_DATA" = "Nessun gioco da visualizzare :(";
 "GAME_NO_DATA_FOR_PROFILE" = "La lista dei giochi per questo profilo non è mai stata sincronizzata! È necessario aggiornare manualmente e/o attivare l'aggiornamento automatico dei giochi.";
-"GAME_NO_DATA_FOR_PRIVATE" = "Questo utente ha lo stato\ "Privato"\ le sue informazioni, e lista dei giochi non sono pubbliche.";
+"GAME_NO_DATA_FOR_PRIVATE" = "Questo utente ha lo stato\"Privato\" le sue informazioni, e lista dei giochi non sono pubbliche.";
 "GAME_SELECTED_FILTERS" = "Selezionare filtro(i)";
 "LAST_TIME_MINUTES" = "%@ minuto(i) fa";
 "LAST_TIME_HOURS" = "%@ ora(e) fa";
@@ -221,7 +221,7 @@ Si prega di collegare un account PSN™";
 "TROPHIES_SETTINGS_FILTER_NOT_EARNED" = "Mancanti";
 "TROPHIES_SETTINGS_TITLE_SPOILERS" = "Mostra spoiler";
 "TROPHIES_SETTINGS_TITLE_FILTERS" = "Filtra per";
-"TROPHIES_SETTINGS_TITLE_SORT" = "Ordina per";
+"TROPHIES_SETTINGS_TITLE_SORT" = "Ordina";
 "TROPHIES_SETTINGS_SORT_RECENT" = "Nuovi";
 "TROPHIES_SETTINGS_SORT_RECENT_DESC" = "Ordina per ultimi trofei guadagnati";
 "TROPHIES_SETTINGS_SORT_ALPHA" = "Alfabeticamente";
@@ -266,7 +266,7 @@ Si prega di collegare un account PSN™";
 "UNKNOWN" = "Sconosciuto";
 "LEADERBOARD_TITLE" = "Classifica";
 "LEADERBOARD_FRIENDS" = "In generale (amici)";
-"LEADERBOARD_SECTION_LEVEL" = "cLASSIFICA LIVELLO";
+"LEADERBOARD_SECTION_LEVEL" = "CLASSIFICA LIVELLO";
 "LEADERBOARD_SECTION_TROPHIES" = "TROFEI";
 "LEADERBOARD_NO_DATA" = "Nessun altro amico :P";
 "LEADERBOARD_GAME_TROPHIES" = "TROFEI DI GIOCO";
@@ -522,7 +522,7 @@ Si prega di collegare un account PSN™";
 "STATS_SWITCH_TIME" = "Tempo ";
 "DELAY_FIRST_SESSION"= "1ª sessione";
 "MINUTE_SUFFIX" = "m";
-"NO_STATS_FOR_FREE" = "Le statistiche sul tempo di gioco non sono attive. \ n \ n \ n \ n \ n Le statistiche sul tempo sono disponibili solo per la versione completa.";
+"NO_STATS_FOR_FREE" = "Le statistiche sul tempo di gioco non sono attive. \n \n \n \n \n Le statistiche sul tempo sono disponibili solo per la versione completa.";
 "ACTIVATE_STATS_WITH_FULL" = "Attiva le mie statistiche";
 "STICKERS_PACKS" = "Stickers pack";
 "STICKERS_NO_RECENT" = "Nessuno sticker recente";
@@ -551,3 +551,14 @@ Si prega di collegare un account PSN™";
 "WN_5_TITLE" = "Privacy tempo di gioco";
 "WN_5_STITLE" = "(Solo nella versione completa)";
 "WN_5_DESC" = "Si prega di selezionare il livello di visibilità per il tempo di gioco.";
+"IMG_EDITOR_MENU_ROTATE" = "Rotate";
+"IMG_EDITOR_MENU_TEXT" = "Text";
+"IMG_EDITOR_MENU_DRAW" = "Draw";
+"IMG_EDITOR_MENU_SPLASH" = "Splash";
+"IMG_EDITOR_MENU_STICKER" = "Sticker";
+"IMG_EDITOR_MENU_TEXT_NEW" = "New";
+"IMG_EDITOR_MENU_TEXT_TEXT" = "Text";
+"IMG_EDITOR_MENU_TEXT_COLOR" = "Color";
+"IMG_EDITOR_MENU_TEXT_FONT" = "Font";
+"SETTINGS_ITEM_STARTSCREEN" = "Start screen";
+"FORGOTTEN_PASSWORD" = "Trouble Signing in ?";
