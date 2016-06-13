@@ -19,8 +19,9 @@ Several things to do for each language:
     * Arabic [ar_AR](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/ar_AR) *(Credits: Hazanberg)* 
 	* Deutsch [de_DE](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/de_DE) *(Credits: Xaosthings)* 
 	* Nederlands [nl_NL](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/nl_NL) *(Credits: Lastminuteguy)* 
+    * Italiano [it_IT](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/it_IT) *(Credits: Edivad)* 
     * 中国 zh_CN `--- Not yet translated`
-    * Italiano it_IT `--- Not yet translated`
+
     
 	
 You can amend this language list by adding additional languages (by creating sub-folder accordingly)
