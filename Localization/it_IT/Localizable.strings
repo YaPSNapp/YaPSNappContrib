@@ -2,7 +2,7 @@
  Localizable.strings
  YaPSNapp
  
- Created by Davide on 13/06/2016.
+ Created by Edivad on 13/06/2016.
  Copyright © 2016 Drakfly. All rights reserved.
  */
 "LOCALE" = "it_IT";
@@ -434,7 +434,7 @@ Si prega di collegare un account PSN™";
 
 //v3
 "PLAYERS" = " GIOCATORI";
-"STATS" = "STATISTICHE";
+"STATS" = "STATS.";
 "POINTS" = "Pt.";
 "POINTS_UPPER" = "PUNTI";
 "TIME" = "TEMPO";
@@ -532,7 +532,7 @@ Si prega di collegare un account PSN™";
 "BACKGROUND_SELECTOR_TITLE" = "Seleziona un gioco";
 "NO_MESSAGE_CONTENT" = "Messaggio vuoto";
 "TAB_TROPHIES" = "TROFEI";
-"TAB_STATS" = " STATISTICHE";
+"TAB_STATS" = " STATS.";
 "TAB_TIME" = " TEMPO";
 "TAB_PLAYERS" = " Amici";
 "WN_WHATSNEW" = "Cosa c'è di nuovo?";
@@ -551,14 +551,14 @@ Si prega di collegare un account PSN™";
 "WN_5_TITLE" = "Privacy tempo di gioco";
 "WN_5_STITLE" = "(Solo nella versione completa)";
 "WN_5_DESC" = "Si prega di selezionare il livello di visibilità per il tempo di gioco.";
-"IMG_EDITOR_MENU_ROTATE" = "Rotate";
-"IMG_EDITOR_MENU_TEXT" = "Text";
-"IMG_EDITOR_MENU_DRAW" = "Draw";
+"IMG_EDITOR_MENU_ROTATE" = "Ruotare";
+"IMG_EDITOR_MENU_TEXT" = "Testo";
+"IMG_EDITOR_MENU_DRAW" = "Disegnare";
 "IMG_EDITOR_MENU_SPLASH" = "Splash";
 "IMG_EDITOR_MENU_STICKER" = "Sticker";
-"IMG_EDITOR_MENU_TEXT_NEW" = "New";
-"IMG_EDITOR_MENU_TEXT_TEXT" = "Text";
-"IMG_EDITOR_MENU_TEXT_COLOR" = "Color";
-"IMG_EDITOR_MENU_TEXT_FONT" = "Font";
-"SETTINGS_ITEM_STARTSCREEN" = "Start screen";
-"FORGOTTEN_PASSWORD" = "Trouble Signing in ?";
+"IMG_EDITOR_MENU_TEXT_NEW" = "Nuovo";
+"IMG_EDITOR_MENU_TEXT_TEXT" = "Testo";
+"IMG_EDITOR_MENU_TEXT_COLOR" = "Colore";
+"IMG_EDITOR_MENU_TEXT_FONT" = "Carattere";
+"SETTINGS_ITEM_STARTSCREEN" = "Schermata iniziale";
+"FORGOTTEN_PASSWORD" = "Problemi di accesso?";

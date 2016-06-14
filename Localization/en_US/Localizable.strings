@@ -5,7 +5,7 @@
   Created by Jeff on 18/02/2016.
   Copyright © 2016 Drakfly. All rights reserved.
 */
-"LOCALE" = "en_GB";
+"LOCALE" = "en_US";
 "SHORT_LOCALE" = "en";
 /** Locale Units **/
 "DATE_FORMAT_FULL" = "MM/dd/yyyy HH:mm";
@@ -433,7 +433,7 @@ Please, connect a PSN™ account";
 "ICO_WHITE" = "White";
 
 //v3
-"PLAYERS" = " PLAYERS";
+"PLAYERS" = " PLAY.";
 "STATS" = "STATS";
 "POINTS" = "Pts.";
 "POINTS_UPPER" = "POINTS";
@@ -444,7 +444,7 @@ Please, connect a PSN™ account";
 "DLC" = "DLC";
 "GAME_LEADERBOARD" = "GAME LEADERBOARD";
 "PROJECTION" = "LEVEL PROJECTION";
-"REPARTITION" = "BREAKDOWN";
+"REPARTITION" = "DISTRIBUTION";
 "GAME_DLC" = "DLC INFO";
 "STATS_BASE" = "Base";
 "STATS_DLC" = "DLC";
@@ -494,7 +494,7 @@ Please, connect a PSN™ account";
 "DELAY_LAST_TROPHY" = "Last trophy";
 "hourOnlyFormat" = "HH:mm";
 "IN_DAYS" = " day(s)";
-"STATS_TIME_REPARTITION" = "OBTAINING TIMING";
+"STATS_TIME_REPARTITION" = "OBTAINING DISTRIBUTION";
 "HOUR_SUFFIX" = "h";
 "DAY_SCALE" = "day ";
 "WEEK_SCALE" = "week ";
@@ -534,7 +534,7 @@ Please, connect a PSN™ account";
 "TAB_TROPHIES" = "TROPH.";
 "TAB_STATS" = " STATS";
 "TAB_TIME" = " TIME";
-"TAB_PLAYERS" = " FRIENDS";
+"TAB_PLAYERS" = " PLAY.";
 "WN_WHATSNEW" = "What's new ?";
 "WN_1_TITLE" = "Messaging improvements";
 "WN_1_STITLE" = "(Full versions only)";
@@ -551,3 +551,14 @@ Please, connect a PSN™ account";
 "WN_5_TITLE" = "Time in-game privacy";
 "WN_5_STITLE" = "(Full versions only)";
 "WN_5_DESC" = "Please select visibility level for time in-game.";
+"IMG_EDITOR_MENU_ROTATE" = "Rotate";
+"IMG_EDITOR_MENU_TEXT" = "Text";
+"IMG_EDITOR_MENU_DRAW" = "Draw";
+"IMG_EDITOR_MENU_SPLASH" = "Splash";
+"IMG_EDITOR_MENU_STICKER" = "Sticker";
+"IMG_EDITOR_MENU_TEXT_NEW" = "New";
+"IMG_EDITOR_MENU_TEXT_TEXT" = "Text";
+"IMG_EDITOR_MENU_TEXT_COLOR" = "Color";
+"IMG_EDITOR_MENU_TEXT_FONT" = "Font";
+"SETTINGS_ITEM_STARTSCREEN" = "Start screen";
+"FORGOTTEN_PASSWORD" = "Trouble Signing in ?";
