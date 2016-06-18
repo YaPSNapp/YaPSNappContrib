@@ -1,10 +1,10 @@
 Neu! Jetzt auch auf deutsch verfügbar! 
 
-Weitere Neuerungen:
+Weitere Neuerungen (Version 3.0):
 - Verbesserungen beim Messaging (nur in Vollversion): Instant-Push-Nachrichten, so musst du nie wieder selber nach neuen Nachrichten suchen
 - Unterstützung von Sticker (eingeführt mit PS4-Firmware 3.00): Denn wir alle wissen, Bilder sagen mehr als tausend Worte
 - Komplett überarbeiteter Spiele-Bildschirm: Spiele-Cover, Statistiken, DLC-Infos und vieles mehr
-- Management für In-Game-Spielzeit (nur in Vollversion): Jetzt weißt nicht nur du, sondern auch deine Freunde wie viel Zeit du mit Witcher 3 und Fallout 4 verbracht hast
+- Management für In-Game-Spielzeit (nur in Vollversion): Jetzt weißt nicht nur du, sondern jetzt wissen auch deine Freunde wie viel Zeit du mit Witcher 3 und Fallout 4 verbracht hast
 - Neue Optionen für die Privatsphäre-Einstellungen (nur in Vollversion): Passe die Sichtbarkeit deiner Statistiken für andere Nutzer an (Öffentlich, nur Freunde, privat)
 - Weitere Sprachen: Neben der deutschen Übersetzung, gibt es die App jetzt auch auf niederländisch und italienisch! 
 
