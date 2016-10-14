@@ -1,10 +1,10 @@
-/* 
-  Localizable.strings
-  YaPSNapp
-
-  Created by Xaosthings
-  Copyright © 2016 Drakfly. All rights reserved.
-*/
+/*
+ Localizable.strings
+ YaPSNapp
+ 
+ Created by Xaosthings
+ Copyright © 2016 Drakfly. All rights reserved.
+ */
 "LOCALE" = "de_DE";
 "SHORT_LOCALE" = "de";
 /** Locale Units **/
@@ -294,14 +294,14 @@ Bitte verbinde einen PSN™ Account";
 "INAPP_CANCELLED" = "Kaufvorgang abgebrochen! :(";
 "INAPP_RESTORE_ERROR" = "Wiederherstellung der Käufe fehlgeschlagen";
 "NO_AD_BANNER" = "Keine Werbung verfügbar ...";
-"INTRO_PANEL1_TITLE" = "<span class=\"title\"><strong>Verbinde</strong><br/>dein(e) PSN Account(s)</span>";
-"INTRO_PANEL1_DESC" = "<span class=\"desc\">Gebe deine Zugangsdaten ein und folge deinen Playstation&reg; Network Freunden.</span><br/><span class=\"note\">(Dient zur Verifizierung von Sony&reg;)</span>";
-"INTRO_PANEL2_TITLE" = "<span class=\"title\"><strong>Folge</strong> Freunden</span>";
-"INTRO_PANEL2_DESC" = "<span class=\"desc\">Wer ist online? Was wird gespielt?<br/>Erfahre, wer Troph&auml;en freigeschalten hat und was sonst so passiert ist.</span><br/><span class=\"note\"></span>";
-"INTRO_PANEL3_TITLE" = "<span class=\"title\"><strong>Gesten</strong> f&uuml;r Aktualisierungen</span>";
-"INTRO_PANEL3_DESC" = "<span class=\"desc\">&Uuml;berall funktioniert \"Ziehen zum Aktualisieren\".<br/>Ziehe einfach, um Daten zu aktualisieren.</span><br/><span class=\"note\"></span>";
-"INTRO_PANEL4_TITLE" = "<span class=\"title\"><strong>Raffinierte</strong> Gesten</span>";
-"INTRO_PANEL4_DESC" = "<span class=\"desc\">In der Freundesliste kannst du von rechts nach links wischen um:<ul><li>Freunde zu favorisieren oder zu entfernen</li><li>Nachrichten zu versenden<span class=\"note\"> (nur Vollversion)</li></ul></span>";
+"INTRO_PANEL1_TITLE" = "**Verbinde dein(e) PSN Account(s)**";
+"INTRO_PANEL1_DESC" = "Gebe deine Zugangsdaten ein und folge deinen PSN Freunden.\n//(Dient zur Verifizierung von Sony)//</span>";
+"INTRO_PANEL2_TITLE" = "**Folge Freunden**";
+"INTRO_PANEL2_DESC" = "Wer ist online? Was wird gespielt?\nErfahre, wer Trophäen freigeschalten hat und was sonst so passiert ist.";
+"INTRO_PANEL3_TITLE" = "**Gesten für Aktualisierungen**";
+"INTRO_PANEL3_DESC" = "Überall funktioniert \"Ziehen zum Aktualisieren\".\n**Ziehe einfach**, um Daten zu aktualisieren";
+"INTRO_PANEL4_TITLE" = "**Raffinierte Gesten**";
+"INTRO_PANEL4_DESC" = "In der Freundesliste kannst du von rechts nach links wischen um:\n・ Freunde zu favorisieren oder zu entfernen\n・ Nachrichten zu versenden\n //(nur Vollversion)//";
 "INTRO_SKIP" = "Überspringen";
 "INTRO_GO" = "Los gehts!";
 "GOOGLE_SEARCH_URL" = "http://www.google.de";
@@ -535,6 +535,9 @@ Bitte verbinde einen PSN™ Account";
 "WN_3_TITLE" = "Neuer Spiele-Bildschirm";
 "WN_3_STITLE" = "";
 "WN_3_DESC" = "Die Spiele-Seite wurde komplett überarbeitet. Jetzt mit Spiele-Header, Statistiken und mehr!";
+"WN_3B_TITLE" = "Widget";
+"WN_3B_STITLE" = "(iOS 8 or >)";
+"WN_3B_DESC" = "Widget mit Ihrem PSN-Profil im Infozentrum";
 "WN_4_TITLE" = "Management für In-Game-Spielzeit";
 "WN_4_STITLE" = "(nur in Vollversion)";
 "WN_4_DESC" = "Zeigt an, wie viel Zeit du in welchem Spiel verbracht hast.\nFür diese Funktion musst du online und mit dem PSN verbunden sein!";
@@ -552,3 +555,23 @@ Bitte verbinde einen PSN™ Account";
 "IMG_EDITOR_MENU_TEXT_FONT" = "Schriftart";
 "SETTINGS_ITEM_STARTSCREEN" = "Startbildschirm";
 "FORGOTTEN_PASSWORD" = "Probleme beim Anmelden?";
+"INAPP_WATCH_VIDEO" = "Sehen Sie Video (+5 Req.)";
+"BESTTROPHY" = "BESTE TROPHAE";
+"LASTTROPHY" = "LETZTE TROPHAE";
+"LEVEL_UP" = "LEVEL UP!";
+"LEVEL_UP_DESC" = "Glückwunsch %@ ! für Ihr LEVEL %hd";
+"CONGRATS" = "GLÜCKWUNSCH !";
+"NEW_PLATINUM" = "Für die neue Platin !";
+"WN_THANKS" = "**DANKE !!**";
+"WN_THANKS_STITLE" = "für Ihre Unterstützung !";
+"WN_THANKS_DESC" = "Sie kaufte gerade die Vollversion , lassen Sie uns sehen, was die neuen Features sind";
+"WN_FULLVERSION_TITLE" = "**Und nun ?**";
+"WN_FULLVERSION_STITLE" = "";
+"WN_FULLVERSION_DESC" = "Sie haben nun Zugriff auf neue Funktionen. \nPSN Messaging (mit Instant-Push-zwischen Premium YaPSNapp Benutzer), keine Anzeigen, die Anzahl der Anfragen, Gaming-Sessions Aufzeichnung und vieles mehr";
+"WN_FULL_NOTIF_TITLE" = "**Benachrichtigungen**";
+"WN_FULL_NOTIF_STITLE" = "";
+"WN_FULL_NOTIF_DESC" = "Bitte aktivieren Sie Benachrichtigungen für Freunde Statusänderungen und für PSN-Nachrichten";
+"INTRO_PANEL1_STITLE" = "";
+"INTRO_PANEL2_STITLE" = "";
+"INTRO_PANEL3_STITLE" = "";
+"INTRO_PANEL4_STITLE" = "//(Freundesliste)//";
