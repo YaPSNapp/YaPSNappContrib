@@ -1,32 +1,31 @@
 YaPSNapp: Yet Another PlayStatioN App
 
-My PSN follows me everywhere in my iPhone® … 
+随时随地在iPhone®中查看PSN…
 
-Is it worth it I turn on my PS3, PSVita or PS4 if I have any of my friends online? 
-Do I still have more trophies than Thomas? How can I do to win the last trophy? 
-If you ask yourself these questions from time to time, then there is YaPSNapp for that. With this app, you will be able to learn anytime and anywhere, which of your friends is online and whether you will be able to play your favorite FPS. 
-With YaPSNapp you can track your activity on the PlayStation® Network and your friends from anywhere. A friendly and intuitive interface allows you to quickly know what happened on the PSN since your last visit. 
+打开PS3、PSVita或PS4去查看好友是否在线，是否值得？
+我的奖杯依旧比小伙伴多么？怎么才能获得最后那个奖杯？
+如果你一次次问自己这些问题，那么YaPSNapp可以帮你解决这些问题。这个App可以让你随时随地知道，你的好友是否在线、你能不能玩得到最爱的FPS。
+你可以随时随地用YaPSNapp追踪你在PlayStation® Network的活动信息和好友状态。你可以通过友好直观的交互快速地知道上次离线后发生了什么。
 
-/!\ Key Features 
-• Follow your friends (status - last connection - new trophies)
-• Follow your ranking (Leaderboards overall - by game)
-• Trophy Collection (Offline access once synchronized)
-• Tips and Tricks (Including platinum guidelines)
-• Multi-accounts (Full version)
-• Push notifications on friend status changes and new message (Full version)
-• PSN messaging (Full version)
-• Integrated trophy helper search 
-• Secure access 
-• Fast browsing
+/!\ 主要功能
+• 关注好友（状态 - 上次上线 - 新奖杯）
+• 关注你的排行（排行榜总览 - 按游戏）
+• 奖杯收集情况（同步后离线查看）
+• 提示和技术（包括白金攻略）
+• 多个账号（完整版）
+• 好友状态和消息推送（完整版）
+• PSN消息（完整版）
+• 奖杯搜索助手
+• 安全连接
+• 快速浏览
 
-If you have a PSN account specifically for your favorite game, No problem, you can declare multiple accounts and switch from one to another to view your groups of friends. 
-In an instant you’ll see what (s) trophy (ies) your friends have earned since the last time. 
-You can admire your trophy collection offline, before bedtime. 
-If you did not know how to win the trophy that your friend has just acquired, so maybe a little look at the PlaystationTrophies.org™ tips and tricks or at the integrated searches will help you get there faster. 
+如果你建了一个专属PSN账号给你最爱的游戏，这不是问题，你可以登录多个账号，然后切换账号去看你的好友分组。
+你会即时收到你的好友新获得奖杯的消息。
+你可以在睡前离线欣赏你的奖杯合集。
+如果你不知道怎么获得你的好友刚获得的奖杯，或许偷瞄一下PlaystationTrophies.org™的提示和技巧可以帮到你。
 
 --------------------------
-To send us feeback / issues you can do it by several ways (Not by the Customer Reviews AppStore Process please :P ):
-• From the application from the menu screen (Email icon)
-• By email to yapsnapp@drakfly.com 
-• Go to our Support Website (http://yapsnapp.drakfly.com/helpdesk/?lang=en) and create a new ticket from the "Create a ticket" menu.
-
+你可以通过以下途径（请别在App Store评价里:P）给我们反馈：
+• 通过菜单（电子邮箱图标）
+• 发邮件到yapsnapp@drakfly.com
+• 去我们的支持页面(http://yapsnapp.drakfly.com/helpdesk/?lang=en)，通过"Create a ticket"菜单创建一个服务单。
