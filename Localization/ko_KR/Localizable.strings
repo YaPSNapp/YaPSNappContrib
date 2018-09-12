@@ -7,11 +7,14 @@
 */
 "LOCALE" = "ko_KR";
 "SHORT_LOCALE" = "ko";
+"ACCEPT_LANGUAGE" = "ko";
 /** Locale Units **/
 "DATE_FORMAT_FULL" = "yyyy/MM/dd HH:mm";
 "DATE_FORMAT_SHORT" = "yy/MM/dd";
 "DATE_FORMAT_FULLYEAR" = "yyyy/MM/dd";
 "DATE_FORMAT_FULL_CR" = "yy/MM/dd\nHH:mm";
+"DATE_FORMAT_FULL_24" = "yyyy/MM/dd HH:mm";
+"DATE_FORMAT_FULL_CR_24" = "yy/MM/dd\nHH:mm";
 
 "UNIT_MINUTE" = "분";
 "UNIT_HOUR" = "시간";
@@ -116,9 +119,8 @@
 "CUSTOM_BACKGROUND_USE_PHOTO" = "사진 사용";
 "CUSTOM_BACKGROUND_SELECT" = "선택";
 "CUSTOM_BACKGROUND_RESTORE_DEFAULT" = "기본값";
-"CUSTOM_BACKGROUND_SAVE_ROLL" = "카메라 롤에 저장;
+"CUSTOM_BACKGROUND_SAVE_ROLL" = "카메라 롤에 저장";
 "CUSTOM_BACKGROUND_SAVED" = "완료";
-
 "LOGIN_TITLE" = "PSN 계정 연결";
 "LOGIN_USERNAME" = "PSN 이메일 주소";
 "LOGIN_PASSWORD" = "비밀번호";
@@ -250,7 +252,7 @@ PSN™ 계정을 연결해 주세요.";
 "IMG_EDITOR_MENU_ADJUST" = "조정";
 "NOTIF_NOTIF_TITLE" = "알림";
 "NOTIF_MESSAGE_TITLE" = "메시지";
-"SETTINGS_TITLE" = "설정;
+"SETTINGS_TITLE" = "설정";
 "SETTINGS_ITEM_DISPLAY" = "표시";
 "SETTINGS_ITEM_LANGUAGE" = "언어";
 "SETTINGS_ITEM_PUSH_NEWS" = "소식 알림 활성";
@@ -339,7 +341,7 @@ PSN™ 계정을 연결해 주세요.";
 "MENU_ITEM_MY_PROFILE" = "나의 프로필";
 "MESSAGE_LOAD_EARLIER" = "이전 메시지 로드";
 "CLOSE" = "닫기";
-"SETTINGS_ITEM_THEME" = "테마"";
+"SETTINGS_ITEM_THEME" = "테마";
 "THEME_CUSTOMIZE" = "테마 디테일";
 "THEME_APPLY" = "적용";
 "PSN_OFFLINE" = "⚠︎ PSN";
@@ -535,7 +537,7 @@ PSN™ 계정을 연결해 주세요.";
 "TAB_TIME" = " 시간";
 "TAB_PLAYERS" = " 플레이.";
 "WN_WHATSNEW" = "새로운 소식";
-"WN_1_TITLE" = "메시지 개선"";
+"WN_1_TITLE" = "메시지 개선";
 "WN_1_STITLE" = "(풀 버전)";
 "WN_1_DESC" = "YaPSNapp 사용자간 메시지 즉시 알림. 대화 화면 자동 업데이트.";
 "WN_2_TITLE" = "스티커 관리";
@@ -583,4 +585,15 @@ PSN™ 계정을 연결해 주세요.";
 "INTRO_PANEL1_STITLE" = "";
 "INTRO_PANEL2_STITLE" = "";
 "INTRO_PANEL3_STITLE" = "";
-"INTRO_PANEL4_STITLE" = "//(liste d'amis)//";
+"INTRO_PANEL4_STITLE" = "//(친구 목록)//";
+//v3.1
+"DATE_FORMAT_FULL_12" = "yyyy/MM/dd hh:mm a";
+"DATE_FORMAT_FULL_CR_12" = "yy/MM/dd\nhh:mm a";
+"TIME_FORMAT_12" = "hh:mm a";
+"TIME_FORMAT_24" = "HH:mm";
+"SETTINGS_ITEM_HOUR_FORMAT" = "시간 형식";
+"MENU_ITEM_HOUR_FORMAT_12" = "12H";
+"MENU_ITEM_HOUR_FORMAT_24" = "24H";
+"SETTINGS_ITEM_AUTO_DARK" = "Auto Thème Nuit";
+//v3.2
+"MESSAGE_EDIT" = "편집하다";

@@ -7,11 +7,12 @@
 */
 "LOCALE" = "en_US";
 "SHORT_LOCALE" = "en";
+"ACCEPT_LANGUAGE" = "en-us";
 /** Locale Units **/
-"DATE_FORMAT_FULL" = "MM/dd/yyyy HH:mm";
 "DATE_FORMAT_SHORT" = "MM/dd/yy";
 "DATE_FORMAT_FULLYEAR" = "MM/dd/yyyy";
-"DATE_FORMAT_FULL_CR" = "MM/dd/yy\nHH:mm";
+"DATE_FORMAT_FULL_24" = "MM/dd/yyyy HH:mm";
+"DATE_FORMAT_FULL_CR_24" = "MM/dd/yy\nHH:mm";
 
 "UNIT_MINUTE" = "minute(s)";
 "UNIT_HOUR" = "hour(s)";
@@ -129,7 +130,7 @@
 "LOGIN_CONNECTING" = "Connecting...";
 "LOGIN_UPDATING_PSNID" = "Syncing %@ (%lu/%lu)";
 "LOGIN_UPDATING" = "Syncing profiles (%lu/%lu)";
-"LOGIN_EDIT_PASSWORD" = "Your password is no more valid.";
+"LOGIN_EDIT_PASSWORD" = "Your session has expired. Please reconnect your account.";
 "LOGIN_EDIT_ACCOUNT" = "Edit your account";
 "LOGIN_EDIT_SUB_TITLE" = "Please enter your PSN password";
 "LOGIN_EDIT_SUB_TITLE_2" = "";
@@ -321,7 +322,7 @@ Please, connect a PSN™ account";
 "INTRO_PANEL3_TITLE" = "**Gestures for refresh**";
 "INTRO_PANEL3_DESC" = "On every screen you must use a Pull to refresh gesture\nJust **drag** the list to refresh data";
 "INTRO_PANEL4_TITLE" = "**Shortcuts gestures**";
-"INTRO_PANEL4_DESC" = "On friends list you can swipe from right to left to be able\n・ To fav or unfav your friends\n・ To send a message to selected friend\n //(Full version only)//";
+"INTRO_PANEL4_DESC" = "On friends list you can swipe from right to left to be able\n・ To fav or unfav your friends\n・ To send a message to selected friend";
 "INTRO_SKIP" = "Skip";
 "INTRO_GO" = "Go !";
 
@@ -432,7 +433,7 @@ Please, connect a PSN™ account";
 "ICO_WHITE" = "White";
 
 //v3
-"PLAYERS" = " PLAY.";
+"PLAYERS" = " PLAYERS";
 "STATS" = "STATS";
 "POINTS" = "Pts.";
 "POINTS_UPPER" = "POINTS";
@@ -583,4 +584,15 @@ Please, connect a PSN™ account";
 "INTRO_PANEL1_STITLE" = "";
 "INTRO_PANEL2_STITLE" = "";
 "INTRO_PANEL3_STITLE" = "";
-"INTRO_PANEL4_STITLE" = "//(liste d'amis)//";
+"INTRO_PANEL4_STITLE" = "//(Friends list)//";
+//v3.1
+"DATE_FORMAT_FULL_12" = "MM/dd/yyyy hh:mm a";
+"DATE_FORMAT_FULL_CR_12" = "MM/dd/yy\nhh:mm a";
+"TIME_FORMAT_12" = "hh:mm a";
+"TIME_FORMAT_24" = "HH:mm";
+"SETTINGS_ITEM_HOUR_FORMAT" = "Time format";
+"MENU_ITEM_HOUR_FORMAT_12" = "12H";
+"MENU_ITEM_HOUR_FORMAT_24" = "24H";
+"SETTINGS_ITEM_AUTO_DARK" = "Auto Thème Nuit";
+//v3.2
+"MESSAGE_EDIT" = "Edit";

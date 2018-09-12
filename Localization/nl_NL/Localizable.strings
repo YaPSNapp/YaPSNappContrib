@@ -7,11 +7,13 @@
  */
 "LOCALE" = "nl_NL";
 "SHORT_LOCALE" = "nl";
+"ACCEPT_LANGUAGE" = "nl";
 /** Locale Units **/
-"DATE_FORMAT_FULL" = "dd/MM/yyyy HH:mm";
 "DATE_FORMAT_SHORT" = "dd/MM/yy";
 "DATE_FORMAT_FULLYEAR" = "dd/MM/yyyy";
-"DATE_FORMAT_FULL_CR" = "dd/MM/yy\nHH:mm";
+"DATE_FORMAT_FULL_24" = "dd/MM/yyyy HH:mm";
+"DATE_FORMAT_FULL_CR_24" = "dd/MM/yy\nHH:mm";
+
 "%d days ago" = "%d dagen geleden";
 "%d hours ago" = "%d uren geleden";
 "%d minutes ago" = "%d minuten geleden";
@@ -124,7 +126,7 @@
 "INTRO_PANEL3_TITLE" = "**Gebaren om te verversen**";
 "INTRO_PANEL3_DESC" = "Op elk scherm kun je een trek gebaar gebruiken\n**Trek simpelweg** de lijst naar beneden om de data te verversen";
 "INTRO_PANEL4_TITLE" = "**Snelle gebaren**";
-"INTRO_PANEL4_DESC" = "Op je vriendenlijst kun je van rechts naar links swipen om\n・ Je vrienden toe te voegen of te verwijderen van je favorieten lijst\n・ Om een bericht te sturen naar een geselecteerde vriend\n //(Alleen in de volledige versie)//";
+"INTRO_PANEL4_DESC" = "Op je vriendenlijst kun je van rechts naar links swipen om\n・ Je vrienden toe te voegen of te verwijderen van je favorieten lijst\n・ Om een bericht te sturen naar een geselecteerde vriend";
 "INTRO_SKIP" = "Overslaan";
 "INAPP_ALERT_CANCEL" = "Annuleren";
 "INAPP_WAITING_SUB_TITLE" = "Een moment geduld a.u.b....";
@@ -156,7 +158,7 @@
 "LEVEL" = "LEVEL";
 "LOGIN_CONNECTING" = "Aan het verbinden...";
 "LOGIN_TITLE" = "Verbind je PSN account";
-"LOGIN_EDIT_PASSWORD" = "Je wachtwoord is niet meer geldig.";
+"LOGIN_EDIT_PASSWORD" = "Uw sessie is verlopen. Gelieve opnieuw uw account.";
 "LOGIN_USERNAME" = "PSN mail-adres";
 "LOGIN_EDIT_ACCOUNT" = "Wijzig je account";
 "LOGIN_EDIT_SUB_TITLE" = "Voer je PSN wachtwoord in";
@@ -574,3 +576,14 @@
 "INTRO_PANEL2_STITLE" = "";
 "INTRO_PANEL3_STITLE" = "";
 "INTRO_PANEL4_STITLE" = "//(vriendenlijst)//";
+//v3.1
+"DATE_FORMAT_FULL_12" = "dd/MM/yyyy hh:mm a";
+"DATE_FORMAT_FULL_CR_12" = "dd/MM/yy\nhh:mm a";
+"TIME_FORMAT_12" = "hh:mm a";
+"TIME_FORMAT_24" = "HH:mm";
+"SETTINGS_ITEM_HOUR_FORMAT" = "Tijd formaat";
+"MENU_ITEM_HOUR_FORMAT_12" = "12H";
+"MENU_ITEM_HOUR_FORMAT_24" = "24H";
+"SETTINGS_ITEM_AUTO_DARK" = "Auto Thème Nuit";
+//v3.2
+"MESSAGE_EDIT" = "Bewerk";

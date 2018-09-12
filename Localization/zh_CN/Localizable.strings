@@ -7,11 +7,14 @@
 */
 "LOCALE" = "zh_CN";
 "SHORT_LOCALE" = "zh";
+"ACCEPT_LANGUAGE" = "zh-CN";
 /** Locale Units **/
 "DATE_FORMAT_FULL" = "yyyy/MM/dd HH:mm";
 "DATE_FORMAT_SHORT" = "yy/MM/dd";
 "DATE_FORMAT_FULLYEAR" = "yyyy/MM/dd";
-"DATE_FORMAT_FULL_CR" = "yy/MM/dd\nHH:mm";
+"DATE_FORMAT_FULL_CR" = "yyyy/MM/dd\nHH:mm";
+"DATE_FORMAT_FULL_24" = "yyyy/MM/dd HH:mm";
+"DATE_FORMAT_FULL_CR_24" = "yy/MM/dd\nHH:mm";
 
 "UNIT_MINUTE" = "分";
 "UNIT_HOUR" = "小时";
@@ -551,3 +554,45 @@
 "WN_5_TITLE" = "游戏时间隐私";
 "WN_5_STITLE" = "（仅完整版）";
 "WN_5_DESC" = "请为游戏时间选择可见度。";
+"IMG_EDITOR_MENU_ROTATE" = "旋转";
+"IMG_EDITOR_MENU_TEXT" = "文本";
+"IMG_EDITOR_MENU_DRAW" = "画";
+"IMG_EDITOR_MENU_SPLASH" = "溅";
+"IMG_EDITOR_MENU_STICKER" = "贴纸";
+"IMG_EDITOR_MENU_TEXT_NEW" = "新";
+"IMG_EDITOR_MENU_TEXT_TEXT" = "文本";
+"IMG_EDITOR_MENU_TEXT_COLOR" = "颜色";
+"IMG_EDITOR_MENU_TEXT_FONT" = "字形";
+"SETTINGS_ITEM_STARTSCREEN" = "开始屏幕";
+"FORGOTTEN_PASSWORD" = "无法登录 ";
+"INAPP_WATCH_VIDEO" = "看视频 (+5 请求)";
+"BESTTROPHY" = "最佳奖杯";
+"LASTTROPHY" = "最后的奖杯";
+"LEVEL_UP" = "升级 !";
+"LEVEL_UP_DESC" = "祝贺 %@ ! 为你的等级 %hd";
+"CONGRATS" = "祝贺 !";
+"NEW_PLATINUM" = "为你的新铂金奖杯 !";
+"WN_THANKS" = "**谢谢 !!**";
+"WN_THANKS_STITLE" = "你的支持 !";
+"WN_THANKS_DESC" = "你刚刚买了完整版，让我们看看有哪些新功能";
+"WN_FULLVERSION_TITLE" = "**现在 ?**";
+"WN_FULLVERSION_STITLE" = "";
+"WN_FULLVERSION_DESC" = "您现在可以访问新功能.\nPSN 消息 (使用优质YaPSNapp用户之间的即时推送), 无广告, 无限请求, 游戏会话录制等";
+"WN_FULL_NOTIF_TITLE" = "**通知**";
+"WN_FULL_NOTIF_STITLE" = "";
+"WN_FULL_NOTIF_DESC" = "请为好友状态更改和PSN消息启用通知";
+"INTRO_PANEL1_STITLE" = "";
+"INTRO_PANEL2_STITLE" = "";
+"INTRO_PANEL3_STITLE" = "";
+"INTRO_PANEL4_STITLE" = "//(朋友列表)//";
+//v3.1
+"DATE_FORMAT_FULL_12" = "yyyy/MM/dd hh:mm a";
+"DATE_FORMAT_FULL_CR_12" = "yy/MM/dd\nhh:mm a";
+"TIME_FORMAT_12" = "hh:mm a";
+"TIME_FORMAT_24" = "HH:mm";
+"SETTINGS_ITEM_HOUR_FORMAT" = "小时格式";
+"MENU_ITEM_HOUR_FORMAT_12" = "12H";
+"MENU_ITEM_HOUR_FORMAT_24" = "24H";
+"SETTINGS_ITEM_AUTO_DARK" = "Auto Thème Nuit";
+//v3.2
+"MESSAGE_EDIT" = "编辑";

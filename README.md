@@ -20,7 +20,9 @@ Several things to do for each language:
 	* Deutsch [de_DE](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/de_DE) *(Credits: Xaosthings)* 
 	* Nederlands [nl_NL](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/nl_NL) *(Credits: Lastminuteguy)* 
     * Italiano [it_IT](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/it_IT) *(Credits: Felix)* 
-    * 中国 zh_CN `--- Not yet translated`
+    * 中国 zh_CN [zh_CN](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/zh_CN) *(Credits: Liamhu)* 
+    * 한국의 ko_KR [ko_KR](https://github.com/YaPSNapp/YaPSNappContrib/tree/master/Localization/ko_KR) *(Credits: newtype0096)* 
+    * русский язык ru_RU `--- Not yet translated`
 
     
 	

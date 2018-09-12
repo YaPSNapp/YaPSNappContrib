@@ -7,11 +7,12 @@
 */
 "LOCALE" = "es_ES";
 "SHORT_LOCALE" = "es";
+"ACCEPT_LANGUAGE" = "es-es";
 /** Locale Units **/
-"DATE_FORMAT_FULL" = "dd/MM/yyyy HH:mm";
 "DATE_FORMAT_SHORT" = "dd/MM/yy";
 "DATE_FORMAT_FULLYEAR" = "dd/MM/yyyy";
-"DATE_FORMAT_FULL_CR" = "dd/MM/yy\nHH:mm";
+"DATE_FORMAT_FULL_24" = "dd/MM/yyyy HH:mm";
+"DATE_FORMAT_FULL_CR_24" = "dd/MM/yy\nHH:mm";
 
 "UNIT_MINUTE" = "minuto(s)";
 "UNIT_HOUR" = "hora(s)";
@@ -301,7 +302,7 @@ Por favor, conecte una cuenta PSN™";
 "INTRO_PANEL3_TITLE" = "**Gestos de refresco**";
 "INTRO_PANEL3_DESC" = "En cada pantalla se debe utilizar un gesto de **tirar para refrescar**\nSólo tienes que arrastrar la lista para actualizar los datos";
 "INTRO_PANEL4_TITLE" = "**Gestos de acceso directo**";
-"INTRO_PANEL4_DESC" = "En la lista de amigos se puede deslizar de derecha a izquierda para\n・ Agregar o eliminar un amigo favorito\n・ Enviar un mensaje a una amiga\n //(Sólo para Versión completa)//";
+"INTRO_PANEL4_DESC" = "En la lista de amigos se puede deslizar de derecha a izquierda para\n・ Agregar o eliminar un amigo favorito\n・ Enviar un mensaje a una amiga";
 "INTRO_SKIP" = "Omitir";
 "INTRO_GO" = "Go !";
 "GOOGLE_SEARCH_URL" = "http://www.google.es";
@@ -355,7 +356,7 @@ Por favor, conecte una cuenta PSN™";
 "GAME_SETTINGS_FILTER_PLATONLY" = "Platino";
 "GAME_SETTINGS_FILTER_100ONLY" = "100%";
 "GAME_SETTINGS_FILTER_NOTCOMPLETE" = "Incompleto";
-"LOGIN_EDIT_PASSWORD" = "Su contraseña ya no es válida.";
+"LOGIN_EDIT_PASSWORD" = "Su sesión ha expirado. Por favor, vuelva a conectar su cuenta";
 "LOGIN_EDIT_ACCOUNT" = "Edite su cuenta";
 "LOGIN_EDIT_SUB_TITLE" = "Por favor, introduzca su contraseña";
 "LOGIN_EDIT_SUB_TITLE_2" = "";
@@ -574,3 +575,14 @@ Por favor, conecte una cuenta PSN™";
 "INTRO_PANEL2_STITLE" = "";
 "INTRO_PANEL3_STITLE" = "";
 "INTRO_PANEL4_STITLE" = "//(lista de amigos)//";
+//v3.1
+"DATE_FORMAT_FULL_12" = "dd/MM/yyyy hh:mm a";
+"DATE_FORMAT_FULL_CR_12" = "dd/MM/yy\nhh:mm a";
+"TIME_FORMAT_12" = "hh:mm a";
+"TIME_FORMAT_24" = "HH:mm";
+"SETTINGS_ITEM_HOUR_FORMAT" = "Formato tiempo";
+"MENU_ITEM_HOUR_FORMAT_12" = "12H";
+"MENU_ITEM_HOUR_FORMAT_24" = "24H";
+"SETTINGS_ITEM_AUTO_DARK" = "Auto Thème Nuit";
+//v3.2
+"MESSAGE_EDIT" = "Editar";

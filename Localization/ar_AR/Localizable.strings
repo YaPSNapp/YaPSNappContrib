@@ -7,11 +7,12 @@
  */
 "LOCALE" = "ar_AR";
 "SHORT_LOCALE" = "ar";
+"ACCEPT_LANGUAGE" = "ar";
 /** Locale Units **/
-"DATE_FORMAT_FULL" = "dd/MM/yyyy HH:mm";
 "DATE_FORMAT_SHORT" = "dd/MM/yy";
 "DATE_FORMAT_FULLYEAR" = "dd/MM/yyyy";
-"DATE_FORMAT_FULL_CR" = "dd/MM/yy\nHH:mm";
+"DATE_FORMAT_FULL_24" = "dd/MM/yyyy HH:mm";
+"DATE_FORMAT_FULL_CR_24" = "dd/MM/yy\nHH:mm";
 
 "UNIT_MINUTE" = "دقيقة";
 "UNIT_HOUR" = "ساعة)";
@@ -355,7 +356,7 @@
 "GAME_SETTINGS_FILTER_PLATONLY" = "البلاتين";
 "GAME_SETTINGS_FILTER_100ONLY" = "100%";
 "GAME_SETTINGS_FILTER_NOTCOMPLETE" = "غير مكتمل";
-"LOGIN_EDIT_PASSWORD" = "كلمة مرورك لا تعمل.";
+"LOGIN_EDIT_PASSWORD" = "انتهت صلاحية جلسة العمل الخاصة بك. يرجى إعادة حسابك";
 "LOGIN_EDIT_ACCOUNT" = "تعديل حسابك";
 "LOGIN_EDIT_SUB_TITLE" = "ارجوا منك ادخال كلمة مرور حسابك الخاصة بالبلاي ستاشين";
 "LOGIN_EDIT_SUB_TITLE_2" = "";
@@ -575,3 +576,14 @@
 "INTRO_PANEL2_STITLE" = "";
 "INTRO_PANEL3_STITLE" = "";
 "INTRO_PANEL4_STITLE" = "//(قائمة الأصدقاء)//";
+//v3.1
+"DATE_FORMAT_FULL_12" = "dd/MM/yyyy hh:mm a";
+"DATE_FORMAT_FULL_CR_12" = "dd/MM/yy\nhh:mm a";
+"TIME_FORMAT_12" = "hh:mm a";
+"TIME_FORMAT_24" = "HH:mm";
+"SETTINGS_ITEM_HOUR_FORMAT" = "تنسيق الوقت";
+"MENU_ITEM_HOUR_FORMAT_12" = "12H";
+"MENU_ITEM_HOUR_FORMAT_24" = "24H";
+"SETTINGS_ITEM_AUTO_DARK" = "Auto Thème Nuit";
+//v3.2
+"MESSAGE_EDIT" = "تصحيح";

@@ -7,11 +7,12 @@
  */
 "LOCALE" = "it_IT";
 "SHORT_LOCALE" = "it";
+"ACCEPT_LANGUAGE" = "it";
 /** Locale Units **/
-"DATE_FORMAT_FULL" = "dd/MM/yyyy HH:mm";
 "DATE_FORMAT_SHORT" = "dd/MM/yy";
 "DATE_FORMAT_FULLYEAR" = "dd/MM/yyyy";
-"DATE_FORMAT_FULL_CR" = "dd/MM/yy\nHH:mm";
+"DATE_FORMAT_FULL_24" = "dd/MM/yyyy HH:mm";
+"DATE_FORMAT_FULL_CR_24" = "dd/MM/yy\nHH:mm";
 
 "UNIT_MINUTE" = "minuti";
 "UNIT_HOUR" = "ore";
@@ -129,7 +130,7 @@
 "LOGIN_CONNECTING" = "Collegamento...";
 "LOGIN_UPDATING_PSNID" = "Sincronizzazione %@ (%lu/%lu)";
 "LOGIN_UPDATING" = "Sincronizzazione profili (%lu/%lu)";
-"LOGIN_EDIT_PASSWORD" = "La password non è più valida.";
+"LOGIN_EDIT_PASSWORD" = "La tua sessione è scaduta. Si prega di ricollegare il tuo account";
 "LOGIN_EDIT_ACCOUNT" = "Modifica il tuo account";
 "LOGIN_EDIT_SUB_TITLE" = "Prego inserire la password del PSN";
 "LOGIN_EDIT_SUB_TITLE_2" = "";
@@ -159,7 +160,7 @@ Si prega di collegare un account PSN™";
 "FRIEND_SETTINGS_FILTER_ONLINE" = "Online";
 "FRIEND_SETTINGS_FILTER_OFFLINE" = "Offline";
 "MENU_LAST_SYNCED" = "Sincronizzato";
-"LEVEL" = "LEVELO";
+"LEVEL" = "LIVELLO";
 "BRONZE" = "BRONZO";
 "SILVER" = "ARGENTO";
 "GOLD" = "ORO";
@@ -322,7 +323,7 @@ Si prega di collegare un account PSN™";
 "INTRO_PANEL3_TITLE" = "**Gestures per aggiornare**";
 "INTRO_PANEL3_DESC" = "Su ogni schermata è necessario utilizzare un **Pull** to refresh\nBasta trascinare l'elenco per aggiornare i dati";
 "INTRO_PANEL4_TITLE" = "**Gestures per scorciatoie**";
-"INTRO_PANEL4_DESC" = "Della lista amici si può scorrere da destra a sinistra per poter\n・ Mettere tra i preferiti un amico\n・ Inviare un messaggio all'amico\n //(Solo nella versione completa)//";
+"INTRO_PANEL4_DESC" = "Della lista amici si può scorrere da destra a sinistra per poter\n・ Mettere tra i preferiti un amico\n・ Inviare un messaggio all'amico";
 "INTRO_SKIP" = "Salta";
 "INTRO_GO" = "Vai!";
 
@@ -585,3 +586,14 @@ Si prega di collegare un account PSN™";
 "INTRO_PANEL2_STITLE" = "";
 "INTRO_PANEL3_STITLE" = "";
 "INTRO_PANEL4_STITLE" = "//(lista amici)//";
+//v3.1
+"DATE_FORMAT_FULL_12" = "dd/MM/yyyy hh:mm a";
+"DATE_FORMAT_FULL_CR_12" = "dd/MM/yy\nhh:mm a";
+"TIME_FORMAT_12" = "hh:mm a";
+"TIME_FORMAT_24" = "HH:mm";
+"SETTINGS_ITEM_HOUR_FORMAT" = "Formato orario";
+"MENU_ITEM_HOUR_FORMAT_12" = "12H";
+"MENU_ITEM_HOUR_FORMAT_24" = "24H";
+"SETTINGS_ITEM_AUTO_DARK" = "Auto Thème Nuit";
+//v3.2
+"MESSAGE_EDIT" = "Modificare";
