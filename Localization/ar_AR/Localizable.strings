@@ -278,8 +278,8 @@
 "INAPP_FULL_TITLE" = "أشتري الأصدار الكامل";
 "INAPP_UNLOCK_TITLE" = "أفتح هذه الميزة";
 "INAPP_REQUEST_TITLE" = "لقد وصلت حدك من الطلبات";
-"INAPP_FULL_REQUEST_DESCRIPTION" = "لقد وصلت حدك من طلبات التحديث اليوم (%lu). اشتري 'الأصدار الكامل' بـ $0.99 (0,99€) لأزالة الحدود.\n  ・أحصل على طلبات بدون حدود\n  ・ أخفي الأعلانات\n  ・ أستخدم أكثر من حساب\n  ・ بريد البلاي ستاشين\n  ・ اشعارات عند تغيير الحالات من أصدقائك";
-"INAPP_FULL_DESCRIPTION" = "اشتري الأصدار الكامل بـ $0.99 (0,99€).\n\n  ・أحصل على طلبات بدون حدود\n  ・ أخفي الأعلانات\n  ・ أستخدم أكثر من حساب\n  ・ بريد البلاي ستاشين\n  ・ اشعارات عند تغيير الحالات من أصدقائك";
+"INAPP_FULL_REQUEST_DESCRIPTION" = "لقد وصلت حدك من طلبات التحديث اليوم (%lu). اشتري 'الأصدار الكامل' بـ @% لأزالة الحدود.\n  ・أحصل على طلبات بدون حدود\n  ・ أخفي الأعلانات\n  ・ أستخدم أكثر من حساب\n  ・ بريد البلاي ستاشين\n  ・ اشعارات عند تغيير الحالات من أصدقائك";
+"INAPP_FULL_DESCRIPTION" = "اشتري الأصدار الكامل بـ %@.\n\n  ・أحصل على طلبات بدون حدود\n  ・ أخفي الأعلانات\n  ・ أستخدم أكثر من حساب\n  ・ بريد البلاي ستاشين\n  ・ اشعارات عند تغيير الحالات من أصدقائك";
 "INAPP_FULL_CANCEL" = "لا شكراً";
 "INAPP_FULL_OK" = "   أشتري";
 "INAPP_WAITING_TITLE" = "التأكد من محل التطلبيقات";
@@ -587,3 +587,34 @@
 "SETTINGS_ITEM_AUTO_DARK" = "Auto Thème Nuit";
 //v3.2
 "MESSAGE_EDIT" = "تصحيح";
+//v3.5
+"MESSAGE_SEARCH" = "بحث";
+"MESSAGE_NO_SEARCH_DATA" = "لا توجد نتيجة";
+"MESSAGES"="رسائل";
+"CHATS" = "CHATS";
+"SETTINGS_ITEM_APPICONS" = "رمز التطبيق";
+"DISPLAY_LAST_GAME_IMG" = "عرض اللعبة الأخيرة";
+"SETTINGS_ITEM_INAPP_TIPJAR" = "نصائح جارية";
+"WN_THANKS_TIP" = "**شكرz!!**";
+"WN_THANKS_STITLE_TIP" = "للحصول على دعمك!";
+"WN_THANKS_DESC_TIP" = "مع هذه النصيحة ، تحفزنا على الاستمرار. لدينا الكثير من الأفكار لتحسين التطبيق.";
+"WN_THANKS_HUGETIP" = "**شكرz!!**";
+"WN_THANKS_STITLE_HUGETIP" = "للحصول على دعمك!";
+"WN_THANKS_DESC_HUGETIP" = "مع هذه النصيحة ، أنت تحفزنا ** كثيرًا ** للاستمرار. لدينا الكثير من الأفكار لتحسين التطبيق.";
+"TIP_JAR_TITLE" = "ائح جارية";
+"INAPP_FREQUENCY_YEARLY" = "سنويًا";
+"INAPP_FREQUENCY_MONTHLY" = "شهريا";
+"INAP_ONETIME" = "لمرة واحدة";
+"INAPP_SUBSCRIPTIONS_TITLE_MONTH_ACTIVE" = "تلميح اشتراك شهري";
+"INAPP_SUBSCRIPTIONS_TITLE_YEAR_ACTIVE" = "الاشتراك السنوي لمدة قصيرة";
+"INAPP_SUBSCRIPTIONS_TITLE" = "نصائح الالتحاق";
+"INAPP_ONETIME_TITLE" = "تلميحات مرة واحدة";
+"INAPP_SUBSCRIPTION_PAYMENT_DESCRIPTION" = "سيتم تحميل الدفعات على حساب iTunes الخاص بك بعد التأكيد. يتم تجديد الاشتراكات تلقائيًا ما لم يتم إيقاف التجديد التلقائي قبل 24 ساعة على الأقل من نهاية فترة الاشتراك. سيتم تحميل الحسابات على تجديد الاشتراك خلال 24 ساعة قبل حتى نهاية الفترة الحالية ، ويمكن إدارة الاشتراكات في إعدادات حساب iTunes بعد الشراء. ";
+"INAPP_WILL_BE_RENEWEDON" = "تم تجديده على:٪ @\n٪@";
+"INAPP_WAS_EXPIREDON" = "انتهت صلاحيته منذ:٪@\n٪@";
+"INAPP_PAYMENT_DESCRIPTON" = "سيتم تحميل الدفعات على حساب iTunes الخاص بك بعد التأكيد.";
+"INAPP_INTRO_TITLE" = "ما هي النقطة؟";
+"INAPP_INTRO_DESCRIPTION" = "إذا كنت تستمتع بهذا التطبيق وترغب في إظهار دعمك لتحسينه أو إذا كنت تريد فقط أن تدفع لنا قهوة أو بيرة ، فالرجاء مراعاة نصيحة\n(أي مساهمة تنشط تلقائيًا الإصدار الكامل )";
+"INAPP_MANAGE_SUBSCRIPTIONS" = "إدارة الاشتراك";
+"TROPHIES_GUIDE_SEARCH" = "بحث";
+"TROPHIES_GUIDE_SEARCH_GOOGLE" = "دليل الكأس!";

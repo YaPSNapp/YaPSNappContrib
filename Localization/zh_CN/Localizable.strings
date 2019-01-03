@@ -299,8 +299,8 @@
 "INAPP_FULL_TITLE" = "购买完整版";
 "INAPP_UNLOCK_TITLE" = "解锁这个功能";
 "INAPP_REQUEST_TITLE" = "限制请求";
-"INAPP_FULL_REQUEST_DESCRIPTION" = "达到每天最大的请求数(%lu)。¥6升级到'完整版'解锁当前限制。\n  ・ 每天无限请求数\n  ・ 移除广告\n  ・ 支持多个账号\n  ・ PSN收件箱\n  ・ 推送好友状态通知";
-"INAPP_FULL_DESCRIPTION" = "¥6升级至'完整版'。\n\n  ・ 每天无限请求数\n  ・ 移除广告\n  ・ 支持多个账号\n  ・ PSN收件箱\n  ・ 推送好友状态通知";
+"INAPP_FULL_REQUEST_DESCRIPTION" = "达到每天最大的请求数(%lu)。%@升级到'完整版'解锁当前限制。\n  ・ 每天无限请求数\n  ・ 移除广告\n  ・ 支持多个账号\n  ・ PSN收件箱\n  ・ 推送好友状态通知";
+"INAPP_FULL_DESCRIPTION" = "%@升级至'完整版'。\n\n  ・ 每天无限请求数\n  ・ 移除广告\n  ・ 支持多个账号\n  ・ PSN收件箱\n  ・ 推送好友状态通知";
 "INAPP_FULL_CANCEL" = "不， 谢谢";
 "INAPP_FULL_OK" = "   升级";
 "INAPP_WAITING_TITLE" = "检查AppStore中";
@@ -596,3 +596,34 @@
 "SETTINGS_ITEM_AUTO_DARK" = "Auto Thème Nuit";
 //v3.2
 "MESSAGE_EDIT" = "编辑";
+//v3.5
+"MESSAGE_SEARCH"="搜索";
+"MESSAGE_NO_SEARCH_DATA"="无结果";
+"MESSAGES"="消息";
+"CHATS"="聊天";
+"SETTINGS_ITEM_APPICONS"="应用图标";
+"DISPLAY_LAST_GAME_IMG"="显示上一场比赛";
+"SETTINGS_ITEM_INAPP_TIPJAR"="提示罐";
+"WN_THANKS_TIP"="**感谢!! **";
+"WN_THANKS_STITLE_TIP"="为了您的支持！";
+"WN_THANKS_DESC_TIP"="有了这个提示，你就会激励我们继续。我们有很多想法来改进应用程序。";
+"WN_THANKS_HUGETIP"="**感谢!! **";
+"WN_THANKS_STITLE_HUGETIP"="为了您的支持！";
+"WN_THANKS_DESC_HUGETIP"="通过这个提示，你可以激励我们**继续。我们有很多想法来改进应用程序。";
+"TIP_JAR_TITLE"="提示罐";
+"INAPP_FREQUENCY_YEARLY"="每年";
+"INAPP_FREQUENCY_MONTHLY"="每月";
+"INAP_ONETIME"="一次性";
+"INAPP_SUBSCRIPTIONS_TITLE_MONTH_ACTIVE"="每月订阅提示";
+"INAPP_SUBSCRIPTIONS_TITLE_YEAR_ACTIVE"="年度订阅提示";
+"INAPP_SUBSCRIPTIONS_TITLE"="订阅提示";
+"INAPP_ONETIME_TITLE"="一次性提示";
+"INAPP_SUBSCRIPTION_PAYMENT_DESCRIPTION"="确认后将向您的iTunes帐户收取费用 除非在订阅期结束前至少24小时关闭自动续订,否则订阅会自动续订 将在24小时内向续订用户收取费用购买后, 可以在iTunes帐户的设置中管理订阅";
+"INAPP_WILL_BE_RENEWEDON"="续订时: %@\n%@";
+"INAPP_WAS_EXPIREDON"="已过期: %@\n%@";
+"INAPP_PAYMENT_DESCRIPTON"="确认后，您的iTunes帐户将收取付款";
+"INAPP_INTRO_TITLE"="有什么意义？";
+"INAPP_INTRO_DESCRIPTION"="如果您一直喜欢这个应用程序，并希望表示您的支持，以改善它，或者如果您只想向我们支付咖啡或啤酒，请考虑提示\n任何贡献自动激活完整版)";
+"INAPP_MANAGE_SUBSCRIPTIONS"="管理订阅";
+"TROPHIES_GUIDE_SEARCH"="查找";
+"TROPHIES_GUIDE_SEARCH_GOOGLE"="奖杯指南！";

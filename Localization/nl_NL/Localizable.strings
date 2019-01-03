@@ -110,9 +110,9 @@
 "IMG_EDITOR_MENU_FILTERS" = "Filters";
 "INAPP_CANCELLED" = "Aankoop geannuleerd :(";
 "INAPP_FULL_CANCEL" = "Nee dankje";
-"INAPP_FULL_DESCRIPTION" = "Upgrade naar de Volledige versie voor 0,99€.\n\n  ・ Ongelimiteerde dagelijkse profielupdates\n  ・ Verwijder advertenties\n  ・ Gebruik meerdere accounts\n  ・ PSN Inbox\n  ・ Push notificaties over de status van je vrienden";
+"INAPP_FULL_DESCRIPTION" = "Upgrade naar de Volledige versie voor %@.\n\n  ・ Ongelimiteerde dagelijkse profielupdates\n  ・ Verwijder advertenties\n  ・ Gebruik meerdere accounts\n  ・ PSN Inbox\n  ・ Push notificaties over de status van je vrienden";
 "INAPP_FULL_OK" = "   Upgrade";
-"INAPP_FULL_REQUEST_DESCRIPTION" = "Maximum van dagelijkse profiel updates bereikt (%lu). Upgrade naar de ‘Volledige versie’ voor 0.99€ om deze limiet uit te schakelen.\n  ・ Onbeperkte dagelijkse profielupdates\n  ・ Verwijder advertenties\n  ・ Gebruik meerdere accounts\n  ・ PSN Inbox\n  ・ Push notificaties over de status van je vrienden";
+"INAPP_FULL_REQUEST_DESCRIPTION" = "Maximum van dagelijkse profiel updates bereikt (%lu). Upgrade naar de ‘Volledige versie’ voor %@ om deze limiet uit te schakelen.\n  ・ Onbeperkte dagelijkse profielupdates\n  ・ Verwijder advertenties\n  ・ Gebruik meerdere accounts\n  ・ PSN Inbox\n  ・ Push notificaties over de status van je vrienden";
 "INAPP_FULL_TITLE" = "Koop de volledige versie";
 "INAPP_PURCHASED" = "Hartelijk bedankt!!! :)";
 "INAPP_REQUEST_TITLE" = "Profielupdate limiet";
@@ -587,3 +587,34 @@
 "SETTINGS_ITEM_AUTO_DARK" = "Auto Thème Nuit";
 //v3.2
 "MESSAGE_EDIT" = "Bewerk";
+//v3.5
+"MESSAGE_SEARCH" = "Zoeken";
+"MESSAGE_NO_SEARCH_DATA" = "Geen resultaat";
+"MESSAGES" = "BERICHTEN";
+"CHATS" = "CHATS";
+"SETTINGS_ITEM_APPICONS" = "App-pictogram";
+"DISPLAY_LAST_GAME_IMG" = "Toon laatste spel";
+"SETTINGS_ITEM_INAPP_TIPJAR" = "Tipspot";
+"WN_THANKS_TIP" = "** BEDANKT !! **";
+"WN_THANKS_STITLE_TIP" = "voor uw steun!";
+"WN_THANKS_DESC_TIP" = "Met deze tip motiveert u ons om door te gaan. We hebben veel ideeën om de app te verbeteren.";
+"WN_THANKS_HUGETIP" = "** BEDANKT !! **";
+"WN_THANKS_STITLE_HUGETIP" = "voor uw steun!";
+"WN_THANKS_DESC_HUGETIP" = "Met deze tip motiveer je ons **veel** om verder te gaan. We hebben veel ideeën om de app te verbeteren.";
+"TIP_JAR_TITLE" = "Tipspot";
+"INAPP_FREQUENCY_YEARLY" = "Jaarlijks";
+"INAPP_FREQUENCY_MONTHLY" = "Maand";
+"INAP_ONETIME" = "Eenmalig";
+"INAPP_SUBSCRIPTIONS_TITLE_MONTH_ACTIVE" = "MAANDELIJKSE ABONNEMENT TIP";
+"INAPP_SUBSCRIPTIONS_TITLE_YEAR_ACTIVE" = "JAARLIJKSE ABONNEMENT TIP";
+"INAPP_SUBSCRIPTIONS_TITLE" = "TIPS VOOR HET ABONNEMENT";
+"INAPP_ONETIME_TITLE" = "EEN KEERTIJD";
+"INAPP_SUBSCRIPTION_PAYMENT_DESCRIPTION" = "Betalingen worden na bevestiging aan je iTunes-account in rekening gebracht. Abonnementen worden automatisch verlengd tenzij automatisch vernieuwen is uitgeschakeld ten minste 24 uur voor het einde van de abonnementsperiode. Accounts worden binnen 24 uur voorafgaand aan abonnementshernieuwingen in rekening gebracht aan het einde van de huidige periode. Abonnementen kunnen na aankoop worden beheerd in de instellingen van uw iTunes-account.";
+"INAPP_WILL_BE_RENEWEDON" = "Vernieuwd op:%@\n%@";
+"INAPP_WAS_EXPIREDON" = "Verlopen sinds:%@\n%@";
+"INAPP_PAYMENT_DESCRIPTON" = "Betalingen worden na bevestiging aan uw iTunes-account in rekening gebracht.";
+"INAPP_INTRO_TITLE" = "Wat is het punt?";
+"INAPP_INTRO_DESCRIPTION" = "Als u deze app heeft genoten en u wilt laten zien dat u deze wilt verbeteren of als u ons gewoon een kopje koffie of een biertje wilt betalen, overweeg dan een tip\n(Elke bijdrage activeert automatisch de volledige versie)";
+"INAPP_MANAGE_SUBSCRIPTIONS" = "Beheer abonnement";
+"TROPHIES_GUIDE_SEARCH" = "Zoeken";
+"TROPHIES_GUIDE_SEARCH_GOOGLE" = "Trofee-gids!";
